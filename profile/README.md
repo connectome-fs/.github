@@ -37,4 +37,6 @@ Audience lanes — not owners of the VFS:
 
 ### Brand
 
-SVG + PNG marks live in [`brand/`](../brand/) (`logo.svg`, `logo-256.png`, `logo-mark-*.png`, …). Site design: **Signal Field** (`DESIGN.md` in the product repo).
+Teal + pink **neuronal brain** mark — the outline is connections, not a solid glyph. Assets in [`brand/`](../brand/) (`logo.svg`, `logo-256.png`, …). Site design: **Signal Field**.
+
+Vision: *Store and find files the way your brain does. Make connections, don't memorize paths.*
