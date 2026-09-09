@@ -1,0 +1,12 @@
+{
+  "name": "connectome-fs-profile-assets",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "brand:export": "node profile/assets/scripts/export-brand-rasters.mjs"
+  },
+  "devDependencies": {
+    "sharp": "^0.34.5"
+  },
+  "packageManager": "pnpm@10.33.0"
+}

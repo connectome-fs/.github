@@ -1,5 +1,13 @@
+# Allow-list: ignore everything by default.
+*
+!.gitignore
+!.gitmodules
+!AGENT-RULES.md
+!package.json
+!pnpm-lock.yaml
+!profile/
+!profile/**
+
 node_modules/
-package.json
-package-lock.json
-pnpm-lock.yaml
-brand/rasterize.mjs
+**/.DS_Store
+**/Thumbs.db

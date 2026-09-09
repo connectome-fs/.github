@@ -1,0 +1,6 @@
+revision=neuronal-2026-09
+note=Pink-dominant neuronal brain mark promoted from the original .github brand directory.
+source_logo=logo.svg
+source_mark=logo-mark.svg
+source_favicon=favicon.svg
+exported=2026-09-08
