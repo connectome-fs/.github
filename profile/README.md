@@ -8,5 +8,5 @@
 
 <p align="center">
   <strong>Graph-native filesystem substrate.</strong><br />
-  Store and find files the way your brain does. Make connections, not paths you have to memorize.
+  Store and find files the way your brain does. Make connections, not folders.
 </p>
