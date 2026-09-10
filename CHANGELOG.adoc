@@ -1,0 +1,12 @@
+= Changelog
+
+== 2026-09-09 — Org surface cleanup
+
+* Added maintainer root README and changelog
+* Removed empty `.gitmodules`
+* Fixed mojibake in `AGENT-RULES.md`
+* Updated allow-list `.gitignore` for root maintainer files
+
+== 2026-09-08 — Profile pitch
+
+* Org profile README tagline: Make connections, not folders.

@@ -1,8 +1,9 @@
 # Allow-list: ignore everything by default.
 *
 !.gitignore
-!.gitmodules
 !AGENT-RULES.md
+!README.md
+!CHANGELOG.adoc
 !package.json
 !pnpm-lock.yaml
 !profile/
